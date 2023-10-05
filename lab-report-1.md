@@ -26,5 +26,37 @@
       
 * pwd - "print working directory" can see the above pictures.
 
-* 
+* find . -name "Hello.java"   - to find out the Hello.java file
+
+* $HOME = ~ = /home
+  
+* / - represents the root
+
+* .. - parent directory. the directory above or outside the current directory.
+  
+* . - no directory / no path. can be ignored.
+
+* tree - will show the tree graph of the program files (also the relatives).
+  The dot (.) at the beginning means the current location.
+  ![Image](tree-example.png)
+
+*** 
+
+## Key words
+
+- Absolute path             ```/home/lecture1/README```
+- Root folder/directory     ```/ or C:\\```
+- Relative path             ```lecture1/README```
+- Working directory
+- Parent directory
+- No directory/no path
+- Environment variable : home
+- http(s) URL
+- Domain
+- Path (part)
+- Query
+- Anchor (or Fragment)
+
+* **Happy Day! :)** *
+  
       
