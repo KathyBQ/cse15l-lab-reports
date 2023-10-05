@@ -44,9 +44,9 @@
 
 ## Key words
 
-- Absolute path             ```/home/lecture1/README```
-- Root folder/directory     ```/ or C:\\```
-- Relative path             ```lecture1/README```
+- Absolute path             ```\t\t/home/lecture1/README```
+- Root folder/directory     ```\t\t/ or C:\\```
+- Relative path             ```\t\tlecture1/README```
 - Working directory
 - Parent directory
 - No directory/no path
@@ -57,6 +57,6 @@
 - Query
 - Anchor (or Fragment)
 
-* **Happy Day! :)** *
+**Happy Day! :)**
   
       
