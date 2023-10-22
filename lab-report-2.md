@@ -1,7 +1,8 @@
 Part 1:
 1. two screenshots of using /add-message for StringServer
-
-2. for each of the 2 screenshots, describe:
+   ![Image](strser1.png)
+   ![Image](strser2.png)
+3. for each of the 2 screenshots, describe:
    - which methods in your code are called?
    - what are the relevant arguments to those methods, and the values of any relevant fields of the class?
    - how do the values of any relevant fields of the class change from this specific request? if no values got changed, explain why.
