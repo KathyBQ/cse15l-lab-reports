@@ -19,6 +19,6 @@ Part 2:
    ```ls``` list the folders and files under my ieng6:
    ![Image](ls-ieng6.png)
 
-   Part 3:
+Part 3:
    I didn't know ssh, curl, and scp before. I learned how to create an easy server in java and how to use the commands on the terminal to remotely compile/control my programs. 
 
