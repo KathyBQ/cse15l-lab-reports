@@ -7,11 +7,12 @@ Part 1:
    - how do the values of any relevant fields of the class change from this specific request? if no values got changed, explain why.
 
 Part 2:
-1. the path to the private key for your SSH key for logging into ieng6 on the computer: ```cs15lfa23ti@ieng6.ucsd.edu```
-2. the path to the public key for the SSH key for logging into ieng6: ```/Users/binqiliu/.ssh/id_rsa.pub```
+1. the path to the private key for your SSH key for logging into ieng6 on the computer: ```/Users/binqiliu/.ssh/id_rsa.pud```
+2. the path to the public key for the SSH key for logging into ieng6 within your account on ieng6: ```/home/linux/ieng6/cs15lfa23/cs15lfa23ti/.ssh/authorized_keys```
    
    ![Image](generate-key.png)
    ![Image](private-key.png)
+   ![Image](keys.png)
    
    Without password to log in the ieng6:
    ![Image](public-key.png)
