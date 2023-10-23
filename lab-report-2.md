@@ -4,8 +4,14 @@ Part 1:
    ![Image](strser2.png)
 3. for each of the 2 screenshots, describe:
    - which methods in your code are called?
+        It called handleRequest, getPath(), getQuery(), contains() methods.
    - what are the relevant arguments to those methods, and the values of any relevant fields of the class?
+        ```handleRequest(URI url): the parameter is a url. have an int num and a string content variables to go through this method to record the previous and the current line number and the updated line messages. ```
+        ```getPath(): url.getPath().contains("/add-message"), get the url's path, and then check if it contains the string "/add-message".```
+        ```url.getQuery().split("="): get the query from the url, and then split the equal sign.```
+     
    - how do the values of any relevant fields of the class change from this specific request? if no values got changed, explain why.
+        When checks the path has "/add-message?s=something", the line number ```num``` will be increased by 1, and the adding message ```something``` will be concatenated to the previous string object ```content``` with corresponding line number.
 
 Part 2:
 1. the path to the private key for your SSH key for logging into ieng6 on the computer: ```/Users/binqiliu/.ssh/id_rsa.pud```
