@@ -8,9 +8,9 @@
   ![Image](cd-examples.png)
 
 * ls - "list" to list the files and folders by the given path
-      - ls - working directory is: /home. It will list lecture1.
-      - ls lecture1 - working directory is /home. It will list all folders and files under /home/lecture1.
-      - ls /home/lecture1/messages/ - the working directory is /home. It will list all files under messages.
+    - ls - working directory is: /home. It will list lecture1.
+    - ls lecture1 - working directory is /home. It will list all folders and files under /home/lecture1.
+    - ls /home/lecture1/messages/ - the working directory is /home. It will list all files under messages.
   
   ![Image](ls-examples.png)
 
