@@ -2,9 +2,9 @@
 
 * cd - "change directory" to switch the current working directory to the given path
   
-      `cd`  - the current working directory is: /home
-      `cd lecture1` - the current working directory is: /home, then change directory to /home/lecture1
-      `cd /home/lecture1/Hello.java` - current working directory is /home/lecture1, but wanna change directory to /home/lecture1/Hello.java. error. This is not a directory.
+      ```cd```  - the current working directory is: /home
+      ```cd lecture1``` - the current working directory is: /home, then change directory to /home/lecture1
+      ```cd /home/lecture1/Hello.java``` - current working directory is /home/lecture1, but wanna change directory to /home/lecture1/Hello.java. error. This is not a directory.
   
   ![Image](cd-examples.png)
 
