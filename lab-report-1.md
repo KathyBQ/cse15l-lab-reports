@@ -15,9 +15,9 @@
   ![Image](ls-examples.png)
 
 * cat - "concatenate" to print the contents of one or more files given by the paths
-      - cat - error. current working directory is: /home. The terminal will wait for inputing a file path.
-      - cat /home/lecture1/messages - error. working directory is: /home. /home/lecture1/messages is a directory, not a file path.
-      - cat /home/lecture1/Hello.java - working directory is: /home. It concatenates the content of the Hello.java and then print it on the terminal.
+     - cat - error. current working directory is: /home. The terminal will wait for inputing a file path.
+     - cat /home/lecture1/messages - error. working directory is: /home. /home/lecture1/messages is a directory, not a file path.
+     - cat /home/lecture1/Hello.java - working directory is: /home. It concatenates the content of the Hello.java and then print it on the terminal.
   
   ![Image](cat-examples.png)
       
