@@ -42,8 +42,8 @@ The below is the after code without bugs.
           arr[i] = arr[arr.length - i - 1];
           arr[arr.length - i - 1] = temp;
         }
-      }
-    ```
+      }```
+      
 The bug is: The previous one didn't create a new variable to store the new elements. It grab and store elements in the same input variable, which makes it grab the already replaced element in the variable. 
 
   - Briefly describe why the fix addresses the issue.
