@@ -48,4 +48,9 @@ The below is the after code without bugs.
 The bug is: The previous one didn't create a new variable to store the new elements. It grab and store elements in the same input variable, which makes it grab the already replaced element in the variable. 
 
   - Briefly describe why the fix addresses the issue.
-    The new code tracks half of the input array elements, and create a variable to store the old element, then grab the new element from the end of the input and store it at the beginning of the input, then give the new vairbale value to the end of the input.It won't make the double grab. 
+    The new code tracks half of the input array elements, and create a variable to store the old element, then grab the new element from the end of the input and store it at the beginning of the input, then give the new vairbale value to the end of the input.It won't make the double grab.
+
+Part 2: researching commands
+- find command
+- less command
+- grep command
