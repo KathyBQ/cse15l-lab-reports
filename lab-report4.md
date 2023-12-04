@@ -21,6 +21,7 @@ then, summarize the commands you ran and what the effect of those keypresses wer
 Steps are as following:
 
 step4: log into ieng6. 
+
 <img width="681" alt="Screen Shot 2023-12-03 at 7 51 33 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/bf62146f-5905-40af-b03b-6d3390e408f0">
 <img width="675" alt="Screen Shot 2023-12-03 at 7 51 53 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/337d1a92-f0d8-40b5-b008-20b86ed185ad">
 
