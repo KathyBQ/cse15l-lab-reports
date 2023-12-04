@@ -8,6 +8,7 @@ change [index1] to [index2] in [ListExamples.java]
   - press <i> for doing insertion to be able to edit something.
   - press <enter - the space button> to give a space after that letter. then press <delete> to delete the previous letter that you want to delete. then enter your desired letter/number.
   - after editing, press <esc>, then <shift>, then <;>, then <wq>, <enter> to save and exit the vim file.
+    
 ---------end-----------
 
 -----------------------------------
