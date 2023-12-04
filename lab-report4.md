@@ -28,7 +28,7 @@ step5: Clone my fork of the repository from my github account.
 <img width="713" alt="Screen Shot 2023-12-03 at 8 01 34 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/e8f51df0-f9c1-42a9-abc8-8c2984a8e324">
 
 step6:
-I had a test.sh script file. I typed ```<vim> <test.sh>``` to open the vim edit screen of test.sh file. Then press <i> to be into the isertion mode. Then I copied the junit running commands for MAC from the instruction website, and pasted into the the test.sh. See below.
+I had a test.sh script file. I typed ```<vim> <test.sh>``` to open the vim edit screen of test.sh file. Then press ```<i>``` to be into the insertion mode. Then I copied the junit running commands for MAC from the instruction website, and pasted into the the test.sh. See below.
 <img width="913" alt="Screen Shot 2023-12-03 at 8 12 21 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/8c4bbe33-9fe6-44fa-8d29-549c62a55170">
 <img width="975" alt="Screen Shot 2023-12-03 at 8 05 05 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/570cf7a8-da18-4080-b998-b52c4688b6e6">
 Then, I typed ```<esc><shift><;><w><q>``` to save and exit the script file.
