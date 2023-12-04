@@ -18,9 +18,18 @@ then, summarize the commands you ran and what the effect of those keypresses wer
 
 Steps are as following:
 
+step4: log into ieng6. 
+<img width="681" alt="Screen Shot 2023-12-03 at 7 51 33 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/bf62146f-5905-40af-b03b-6d3390e408f0">
+<img width="675" alt="Screen Shot 2023-12-03 at 7 51 53 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/337d1a92-f0d8-40b5-b008-20b86ed185ad">
+
+step5: Clone my fork of the repository from my github account.
+<img width="713" alt="Screen Shot 2023-12-03 at 8 01 34 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/e8f51df0-f9c1-42a9-abc8-8c2984a8e324">
+
+step6:
 I ran the test, and it shows there exists one failure and runs 2 tests. There's the problem on the testMerge2() method. See symbol below:
 <img width="726" alt="Screen Shot 2023-11-19 at 10 30 39 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/84ac35f9-f06a-416a-bf69-1054d89dbf83">
 
+step7:
 I typed ```<vim ListExamples.java>``` to open the vim editing screen of the ListExamples.java file.
 <img width="731" alt="Screen Shot 2023-11-19 at 10 35 25 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/e54b09a2-c5c3-437e-9671-5939dc62505f">
 
@@ -33,9 +42,11 @@ I pressed ```<e>``` to locate the cursor to the end of this word ```index1```. N
 I pressed ```<esc><shift><;><w><q>```. that means I exit the insertion mode, then save the change and exit the vim screen. I am back to the terminal now. 
 <img width="666" alt="Screen Shot 2023-11-19 at 11 08 33 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/398bb64f-6daa-45a9-8b2c-d9a065711b13">
 
+step8:
 After changing the ListExamples.java using vim, I typed ```bash test.sh``` to compile and run the tests. It shows they are succeed now. 
 <img width="666" alt="Screen Shot 2023-11-19 at 11 08 59 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/96145ae5-dd17-4749-a18b-849769077e08">
 
+step9:
 I typed ```git status``` to show my current status. And found I have one modified file needed to be added. I typed ```git add ListExamples.java``` to add this changed file to the git. I typed ```git commit -m "fixed error"``` to give a commit with updated info to the git. Then I entered ```git push``` to push this to my github, and finally entered my github username and password to have access. 
 <img width="666" alt="Screen Shot 2023-11-19 at 11 16 40 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/4dd93bb8-cf2f-42de-9e50-afc346fde791">
 <img width="584" alt="Screen Shot 2023-11-19 at 11 17 01 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/01f7476b-27e8-4bbd-9299-5accd7be91ba">
