@@ -1,5 +1,5 @@
+----Please ignore the below closed content-----
 use vim to edit the files
-
 change [index1] to [index2] in [ListExamples.java]
   - use <vim <path>> to show the vim screen of the given path's file.
   - use <H>, <L>, <J>, <K> to turn left, turn right, jump down, jump up through the file, or use the arrow keys to cross the file, then find out the content you want to edit.
@@ -7,14 +7,14 @@ change [index1] to [index2] in [ListExamples.java]
   - press <i> for doing insertion to be able to edit something.
   - press <enter - the space button> to give a space after that letter. then press <delete> to delete the previous letter that you want to delete. then enter your desired letter/number.
   - after editing, press <esc>, then <shift>, then <;>, then <wq>, <enter> to save and exit the vim file.
+---------end-----------
 
---------------------
+-----------------------------------
+  correct content is shown below:
+-----------------------------------
 requirement: reproduce the task from above on your own. for each numbered step starting rigth after the timer (so steps 4-9), take a screenshot, and write down exactly which keys you pressed to get to that step. 
-
 for special characters like <enter> or <tab>, write them in angle brackets with code formating. 
-
 then, summarize the commands you ran and what the effect of those keypresses were.
-
 
 Steps are as following:
 
@@ -26,9 +26,11 @@ step5: Clone my fork of the repository from my github account.
 <img width="713" alt="Screen Shot 2023-12-03 at 8 01 34 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/e8f51df0-f9c1-42a9-abc8-8c2984a8e324">
 
 step6:
-I ran the test, and it shows there exists one failure and runs 2 tests. There's the problem on the testMerge2() method. 
 I had a test.sh script file. I typed ```<vim> <test.sh>``` to open the vim edit screen of test.sh file. Then press <i> to be into the isertion mode. Then I copied the junit running commands for MAC from the instruction website, and pasted into the the test.sh. See below.
+<img width="913" alt="Screen Shot 2023-12-03 at 8 12 21 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/8c4bbe33-9fe6-44fa-8d29-549c62a55170">
 <img width="975" alt="Screen Shot 2023-12-03 at 8 05 05 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/570cf7a8-da18-4080-b998-b52c4688b6e6">
+Then, I typed ```<esc><shift><;><w><q>``` to save and exit the script file.
+I ran the test by typing ```bash test.sh``` on the terminal, and it shows there exists one failure and runs 2 tests. There's the problem on the testMerge2() method. 
 See symbol below:
 <img width="726" alt="Screen Shot 2023-11-19 at 10 30 39 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/84ac35f9-f06a-416a-bf69-1054d89dbf83">
 
