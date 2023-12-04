@@ -26,7 +26,10 @@ step5: Clone my fork of the repository from my github account.
 <img width="713" alt="Screen Shot 2023-12-03 at 8 01 34 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/e8f51df0-f9c1-42a9-abc8-8c2984a8e324">
 
 step6:
-I ran the test, and it shows there exists one failure and runs 2 tests. There's the problem on the testMerge2() method. See symbol below:
+I ran the test, and it shows there exists one failure and runs 2 tests. There's the problem on the testMerge2() method. 
+I had a test.sh script file. I typed ```<vim> <test.sh>``` to open the vim edit screen of test.sh file. Then press <i> to be into the isertion mode. Then I copied the junit running commands for MAC from the instruction website, and pasted into the the test.sh. See below.
+<img width="975" alt="Screen Shot 2023-12-03 at 8 05 05 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/570cf7a8-da18-4080-b998-b52c4688b6e6">
+See symbol below:
 <img width="726" alt="Screen Shot 2023-11-19 at 10 30 39 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/84ac35f9-f06a-416a-bf69-1054d89dbf83">
 
 step7:
