@@ -28,7 +28,7 @@ step5: Clone my fork of the repository from my github account.
 <img width="713" alt="Screen Shot 2023-12-03 at 8 01 34 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/e8f51df0-f9c1-42a9-abc8-8c2984a8e324">
 
 step6:
-I had a test.sh script file. I typed ```<vim> <test.sh>``` to open the vim edit screen of test.sh file. Then press ```<i>``` to be into the insertion mode. Then I copied the junit running commands for MAC from the instruction website, and pasted into the the test.sh. See below.
+I had a test.sh script file. I typed ```<vim> <test.sh>``` to open the vim edit screen of test.sh file. Then press ```<i>``` to be into the insertion mode. Then I copied the junit running commands by ```<command-c>``` for MAC from the instruction website, and pasted into the the test.sh by ```<command-v>``` . See below.
 <img width="913" alt="Screen Shot 2023-12-03 at 8 12 21 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/8c4bbe33-9fe6-44fa-8d29-549c62a55170">
 <img width="975" alt="Screen Shot 2023-12-03 at 8 05 05 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/570cf7a8-da18-4080-b998-b52c4688b6e6">
 Then, I typed ```<esc><shift><;><w><q>``` to save and exit the script file.
@@ -50,11 +50,11 @@ I pressed ```<esc><shift><;><w><q>```. that means I exit the insertion mode, the
 <img width="666" alt="Screen Shot 2023-11-19 at 11 08 33 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/398bb64f-6daa-45a9-8b2c-d9a065711b13">
 
 step8:
-After changing the ListExamples.java using vim, I typed ```bash test.sh``` to compile and run the tests. It shows they are succeed now. 
+After changing the ListExamples.java using vim, I kept pressing ```<up>``` arrow to get the previous ```bash test.sh``` command on the terminal to compile and run the tests. It shows they are succeed now. 
 <img width="666" alt="Screen Shot 2023-11-19 at 11 08 59 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/96145ae5-dd17-4749-a18b-849769077e08">
 
 step9:
-I typed ```git status``` to show my current status. And found I have one modified file needed to be added. I typed ```git add ListExamples.java``` to add this changed file to the git. I typed ```git commit -m "fixed error"``` to give a commit with updated info to the git. Then I entered ```git push``` to push this to my github, and finally entered my github username and password to have access. 
+I typed ```git status``` to show my current status. And found I have one modified file needed to be added. I typed ```git add ``` on the terminal, double click ```ListExamples.java``` shown from ```git status``` to copy it and then pressed ```<command-v>``` to paste it after ```git add ``` on the terminal to add this changed file to the git. I typed ```git commit -m "fixed error"``` to give a commit with updated info to the git. Then I entered ```git push``` to push this to my github, and finally entered my github username and password to have access. 
 <img width="666" alt="Screen Shot 2023-11-19 at 11 16 40 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/4dd93bb8-cf2f-42de-9e50-afc346fde791">
 <img width="584" alt="Screen Shot 2023-11-19 at 11 17 01 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/01f7476b-27e8-4bbd-9299-5accd7be91ba">
 <img width="549" alt="Screen Shot 2023-11-19 at 11 17 22 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/fbaeb405-01e3-4413-886e-b76a9a9bfc89">
