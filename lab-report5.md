@@ -17,6 +17,7 @@ Then run the grade again to get the pass version.
 before fixing the file:
 <img width="509" alt="Screen Shot 2023-12-04 at 11 38 40 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/24d96bb8-ce5b-4851-8a04-dad6415aef19">
 
+
 after fixing the file:
 <img width="509" alt="Screen Shot 2023-12-04 at 11 39 43 PM" src="https://github.com/KathyBQ/cse15l-lab-reports/assets/96004027/da34b977-bcc6-4b2d-9adf-97134a5f3996">
 
